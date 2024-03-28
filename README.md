@@ -9,7 +9,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="mysql" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  /> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img align="center" alt="php"  width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img align="center" alt="xamarin" width="40" height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"  /> </p>
+  <img align="center" alt="xamarin" width="40" height="25" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"  /> 
+  <img align="center" alt="Arduino"  width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></p>
 
 </div><br>
 
